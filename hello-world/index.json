@@ -1,5 +1,6 @@
 {
   "title": "Hello World Scenario",
+  "private":"true",
   "description": "Your First Scenario",
   "difficulty": "beginner",
   "time": "2 minutes",
